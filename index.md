@@ -50,13 +50,20 @@ Now you're going to goof off in in the terminal since it is a useful tool for na
 Click [here](https://opensource.com/article/22/5/essential-linux-commands) for some essential linux commands  
 
 Here's a quick breakdown of some useful ones:  
-`pwd` prints youre working directory
-`cd~` changes your directory to the root folder
-`ls` shows the contents of the directory you're in
-`cd <directory` allows you to change directories (go down the rabbit hole)
-`cd ..` allows you to go out of one folder back to one step before
-`touch` makes an empty file
-`mkdir` allows you to make a directory
+`pwd` prints youre working directory  
+
+`cd~` changes your directory to the root folder  
+
+`ls` shows the contents of the directory you're in  
+
+`cd <directory` allows you to change directories (go down the rabbit hole)  
+
+`cd ..` allows you to go out of one folder back to one step before  
+
+`touch` makes an empty file  
+
+`mkdir` allows you to make a directory  
+
 `cat` opens a file
 
 Here's an example of me doing some serious goofing with a few of these commands (whatever you do, don't use sudo 🔫): 
