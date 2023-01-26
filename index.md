@@ -11,7 +11,7 @@ Then, try to remember or copy down the last 3 letters of that additional account
 
 ![image](https://maximpodgore.github.io/cse15l-lab-reports/img2.png)  
 
-Above and below are the two sections of the page you see once you look up your account
+Above are the two sections of the page you see once you look up your account
 
 Next, click on [this](https://code.visualstudio.com/) to go to vscode's site and download it. It's an excellent IDE for most languages
 
