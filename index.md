@@ -21,8 +21,15 @@ Next, please click the install button and it should automatically give you the r
 
 **Second Step:**  
 
-Open VS Code, locate the top bar, click on Terminal, and then select new Terminal.  
+Open VS Code, locate the top bar, click on Terminal, and then select new Terminal. Like so  
+
+![image](https://user-images.githubusercontent.com/56902053/214762802-a67f502a-7397-40fc-9b11-4fac39289f97.png)  
+
+![image](https://user-images.githubusercontent.com/56902053/214762893-9ec54187-db96-4dcd-8202-7a811aa64ac9.png)
+
 Put this in the Terminal, but substitute afs with the last 3 letters of your username (remember?)
+> ssh cse15lwi23afs@ieng6.ucsd.edu
+(here it is so you can copy and paste but please substitute those last 3)
 
 ![image](https://maximpodgore.github.io/cse15l-lab-reports/img4.png)  
 
@@ -30,7 +37,7 @@ When it works, this should pop up, type yes and click enter
 
 ![image](https://maximpodgore.github.io/cse15l-lab-reports/img5.png)  
 
-Then input your Tritonlink password  
+Then input your Tritonlink password to be logged into the server
 Once you're in you should see this  
 
 ![image](https://maximpodgore.github.io/cse15l-lab-reports/img6.png)  
