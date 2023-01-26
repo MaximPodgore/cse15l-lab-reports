@@ -50,6 +50,7 @@ Now you're going to goof off in in the terminal since it is a useful tool for na
 Click [here](https://opensource.com/article/22/5/essential-linux-commands) for some essential linux commands  
 
 Here's a quick breakdown of some useful ones:  
+
 `pwd` prints youre working directory  
 
 `cd~` changes your directory to the root folder  
