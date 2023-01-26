@@ -28,7 +28,8 @@ Open VS Code, locate the top bar, click on Terminal, and then select new Termina
 ![image](https://user-images.githubusercontent.com/56902053/214762893-9ec54187-db96-4dcd-8202-7a811aa64ac9.png)
 
 Put this in the Terminal, but substitute afs with the last 3 letters of your username (remember?)
-> ssh cse15lwi23afs@ieng6.ucsd.edu
+'ssh cse15lwi23afs@ieng6.ucsd.edu'  
+
 (here it is so you can copy and paste but please substitute those last 3)
 
 ![image](https://maximpodgore.github.io/cse15l-lab-reports/img4.png)  
@@ -44,11 +45,21 @@ Once you're in you should see this
 
 **Third Step:**  
 
-Now you're going to goof off in in the terminal  
+Now you're going to goof off in in the terminal since it is a useful tool for navigating remote computers and servers  
 
-Click [here](https://opensource.com/article/22/5/essential-linux-commands) for some essential linux commands    
+Click [here](https://opensource.com/article/22/5/essential-linux-commands) for some essential linux commands  
 
-Here's an example of me doing some serious goofing (whatever you do, don't use sudo 🔫): 
+Here's a quick breakdown of some useful ones:  
+'pwd' prints youre working directory
+'cd~' changes your directory to the root folder
+'ls' shows the contents of the directory you're in
+'cd <directory' allows you to change directories (go down the rabbit hole)
+'cd ..' allows you to go out of one folder back to one step before
+'touch' makes an empty file
+'mkdir' allows you to make a directory
+'cat' opens a file
+
+Here's an example of me doing some serious goofing with a few of these commands (whatever you do, don't use sudo 🔫): 
 
 ![image](https://maximpodgore.github.io/cse15l-lab-reports/img7.png)  
 
