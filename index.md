@@ -67,6 +67,8 @@ Here's a quick breakdown of some useful ones:
 
 `cat` opens a file
 
+`vi` allows you to write in the file. It's kinda hard to use the text editor so here's a cheat sheet if you're a masochist https://vim.rtorr.com/
+
 Here's an example of me doing some serious goofing with a few of these commands (whatever you do, don't use sudo 🔫): 
 
 ![image](https://maximpodgore.github.io/cse15l-lab-reports/img7.png)  
