@@ -1,20 +1,23 @@
 **First Step:**  
 
-Go [here](https://sdacs.ucsd.edu/~icc/index.php).  
+
+Please go to this [site](https://sdacs.ucsd.edu/~icc/index.php). It's a UCSD site for finding your specifc CSE15L account username (you might use it in other classes) and we're going to use this account to access a remote computer on a ucsd server.
 
 Please put **your** information in like below  
 
 ![image](https://maximpodgore.github.io/cse15l-lab-reports/img1.png)  
 
-Please remember the last 3 letters of that additional accounts username. The password of it should be your tritonlink password. You'll find out if it works in a later step. If you do have to come back to this and reset it, make sure you disable the option that also resets your tritonlink password.  
+Then, try to remember or copy down the last 3 letters of that additional accounts username. The password of it should be your tritonlink password. You'll find out if it works in a later step. If you do have to come back to this and reset it, make sure you disable the option that also resets your tritonlink password.  
 
-![image](https://maximpodgore.github.io/cse15l-lab-reports/img2.png)   
+![image](https://maximpodgore.github.io/cse15l-lab-reports/img2.png)  
 
-Next, click on [this](https://code.visualstudio.com/)  
+Above and below are the two sections of the page you see once you look up your account
+
+Next, click on [this](https://code.visualstudio.com/) to go to vscode's site and download it. It's an excellent IDE for most languages
 
 ![image](https://maximpodgore.github.io/cse15l-lab-reports/img3.png)  
 
-Please click the button 🤓
+Next, please click the install button and it should automatically give you the right version for your OS
 
 **Second Step:**  
 
