@@ -26,18 +26,17 @@ And here is the output (Don't look at the terminal for the error message that's 
 
 Here is the buggy version of the code:  
 
-`static void reverseInPlace(int[] arr) {  
+`static void reverseInPlace(int[] arr) {`  
 
     for(int i = 0; i < arr.length; i += 1) {  
     
       arr[i] = arr[arr.length - i - 1];  
       
-    }
-  }`
+    }}
   
-  `static void reverseInPlace(int[] arr) {  
+  `static void reverseInPlace(int[] arr) {`  
   
-    int[] newArray = new int[arr.length];  
+    `int[] newArray = new int[arr.length];  
     
     for(int i = 0; i < arr.length; i += 1) {  
     
@@ -48,8 +47,7 @@ Here is the buggy version of the code:
     
       arr[i] = newArray[i];  
       
-    }
-  }`  
+    }}`  
   
   Basically the original function would write over the original array but midway it's gonna take the new late index values now early in the array and think they were the original early index values. We can solve that by creating a temp array and deep copying the result.
   
