@@ -7,7 +7,7 @@ Basically I made a server which takes in strings from the query and prints them 
 Essentially I made a handler that works with the basic server code to *handle* the things people type in the browser. This handler only responds to the path /add-string.
 After the query "?"and the following "=" it will concatenate the terms left to a mega string. It will throw /n in there to make it appear on
 the new line. That's basically it. The only thing that gets changed is that website display string that keeps on getting added to.
-Here's some screenshots of it in actions.
+Here's some screenshots of it in action.
 
 ![image](https://maximpodgore.github.io/cse15l-lab-reports/week32.png)  
 
@@ -26,19 +26,28 @@ And here is the output (Don't look at the terminal for the error message that's 
 
 Here is the buggy version of the code:  
 
-`static void reverseInPlace(int[] arr) {
-    for(int i = 0; i < arr.length; i += 1) {
-      arr[i] = arr[arr.length - i - 1];
+`static void reverseInPlace(int[] arr) {  
+
+    for(int i = 0; i < arr.length; i += 1) {  
+    
+      arr[i] = arr[arr.length - i - 1];  
+      
     }
   }`
   
-  `static void reverseInPlace(int[] arr) {
-    int[] newArray = new int[arr.length];
-    for(int i = 0; i < arr.length; i += 1) {
-      newArray[i] = arr[arr.length - i - 1];
+  `static void reverseInPlace(int[] arr) {  
+  
+    int[] newArray = new int[arr.length];  
+    
+    for(int i = 0; i < arr.length; i += 1) {  
+    
+      newArray[i] = arr[arr.length - i - 1];  
+      
     }
-    for(int i = 0; i < arr.length; i += 1) {
-      arr[i] = newArray[i];
+    for(int i = 0; i < arr.length; i += 1) {  
+    
+      arr[i] = newArray[i];  
+      
     }
   }`  
   
