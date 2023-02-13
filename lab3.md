@@ -1,6 +1,6 @@
 **Grappling grep and increasing our grepertoire of options**  
 
-Here's a list of grep options, we're gonna be using some I thought would be interesting. I found this on Please go to this [the classic GeeksForGeeks]([https://sdacs.ucsd.edu/~icc/index.php](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)  
+Here's a list of grep options, we're gonna be using some I thought would be interesting. I found this on Please go to this [the classic GeeksForGeeks](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)  
 
 ![image](https://user-images.githubusercontent.com/56902053/218374492-4b87593c-d342-417e-b6ed-6281a3083a29.png)  
 
