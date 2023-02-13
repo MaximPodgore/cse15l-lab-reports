@@ -3,6 +3,9 @@
 Here's a list of grep options, we're gonna be using some I thought would be interesting  
 
 ![image](https://user-images.githubusercontent.com/56902053/218374492-4b87593c-d342-417e-b6ed-6281a3083a29.png)  
+
+By the way, I am using the -r command to recursively search the entire directory, otherwise the command wouldn't return anything.
+
 **-i**
 
 I thought -i would be interesting as it letss us look for funny words without worrying if they are lowercase. Funny thing, I didn't realize splurge was lowercase anyway
@@ -19,22 +22,17 @@ I thought -i would be interesting as it letss us look for funny words without wo
 
 **-n**  
 
-I thought it only return the matched line and the nunber, but it doesn't shorten the screen information and actually adds 
+I thought it only return the matched line and the number, but it doesn't shorten the screen information and actually adds a cute green number to indicate the line number.  
 
+![image](https://user-images.githubusercontent.com/56902053/218374389-111a51f6-76a6-4bb7-bce0-a82ea9977e2d.png)
+![image](https://user-images.githubusercontent.com/56902053/218374845-84602e2b-feb7-45c6-a7a6-b816d1f928be.png)  
 
+**-o**  
 
+Prints the matching part, which for some reason I thought would show the whole line it's in, but it just shows the exact matching term  
 
-<img width="1055" alt="image" src="https://user-images.githubusercontent.com/56902053/218374389-111a51f6-76a6-4bb7-bce0-a82ea9977e2d.png">  
-
-<img width="1072" alt="image" src="https://user-images.githubusercontent.com/56902053/218374845-84602e2b-feb7-45c6-a7a6-b816d1f928be.png">
-
-
-
-
-<img width="514" alt="image" src="https://user-images.githubusercontent.com/56902053/218374466-1fe56d62-9902-4c97-b8e6-da2abbf75552.png">
-
-
-<img width="454" alt="image" src="https://user-images.githubusercontent.com/56902053/218375171-787bce6c-1cf8-4122-a86e-a6b99dc8c13c.png">
+![image](https://user-images.githubusercontent.com/56902053/218374466-1fe56d62-9902-4c97-b8e6-da2abbf75552.png)
+![image](https://user-images.githubusercontent.com/56902053/218375171-787bce6c-1cf8-4122-a86e-a6b99dc8c13c.png)
 
 
 
