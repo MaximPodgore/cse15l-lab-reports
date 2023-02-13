@@ -1,10 +1,8 @@
 **Grappling grep and increasing our grepertoire of options**  
 
-Here's a list of grep options, we're gonna be using some I thought would be interesting. I found this on the classic [GeeksForGeeks.org](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)  
+Here's a list of grep options, we're gonna be using some I thought would be interesting. I found this on the classic [GeeksForGeeks.org](https://www.geeksforgeeks.org/grep-command-in-unixlinux/). By the way, I will be using the -r command to recursively search the entire directory, otherwise the command wouldn't return anything.
 
 ![image](https://user-images.githubusercontent.com/56902053/218374492-4b87593c-d342-417e-b6ed-6281a3083a29.png)  
-
-By the way, I am using the -r command to recursively search the entire directory, otherwise the command wouldn't return anything.
 
 **-i**
 
