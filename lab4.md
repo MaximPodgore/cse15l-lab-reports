@@ -4,7 +4,7 @@
 
 Keys typed: `ssh cs15lwi23afs@ieng6.ucsd.edu` <enter>  
   
-*Step 2:**  
+**Step 2:**  
 
 ![image](https://user-images.githubusercontent.com/56902053/221444307-116ead18-4c73-4cf5-a589-8302e1dfc004.png)  
   
