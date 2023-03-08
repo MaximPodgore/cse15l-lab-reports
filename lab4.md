@@ -32,11 +32,11 @@ Keys typed: `<up> <up> <up> <enter>` (repeat it twice to do both commands)
 
 ![image](https://user-images.githubusercontent.com/56902053/221444523-47d46c0f-0252-43ac-9879-2c7b501c3745.png)  
   
-Keys typed: `git add L <tab> j` <tab> <enter>  
+Keys typed: `git add L <tab> j <tab> <enter> ` 
   
 ![image](https://user-images.githubusercontent.com/56902053/221444682-feb5ce86-4106-4253-8b22-73cfee0c261b.png)  
   
-Keys typed: `git commit -m :A:` <enter> (I meant to type "A")  
+Keys typed: `git commit -m :A: <enter> `(I meant to type "A")  
   
 ![image](https://user-images.githubusercontent.com/56902053/221444712-2f1bba47-96a2-424b-b022-ff34160e6b60.png)  
   
