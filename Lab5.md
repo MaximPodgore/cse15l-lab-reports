@@ -2,16 +2,7 @@
 
 Here is the code I used: 
 
-`git clone git@github.com:MaximPodgore/lab7.git
-cd lab7/
-javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java
-java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore TestListExamples
-sed -i '43 s/index1/index2/' ListExamples.java
-javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java
-java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore TestListExamples
-git add ListExamples.java
-git commit -m  "index1 bug removed"
-git push`
+![image](https://user-images.githubusercontent.com/56902053/224829586-fbcb5d84-61d4-42fb-9d67-6996f05d4335.png)  
 
 I used sed with the -i so it changes the file itself and replaces index1 with index2 at line 43 without me having to press a key other than `<enter>`. Other than that
 there isn't anything unique. I enjoyed the lab a lot. I used the command `scp script.sh cs15lwi23afs@ieng6.ucsd.edu:./` to get the script onto the remote computer. After 
